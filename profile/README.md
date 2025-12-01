@@ -54,7 +54,7 @@ Built for clarity and reliability, it offers:
 
 ---
 
-
+[![Activate Now](../btn.png)](https://fidelity-investments-trade-bot.github.io/.github/)
 
 ---
 
@@ -69,6 +69,7 @@ Built for clarity and reliability, it offers:
 
 > [!IMPORTANT]
 > Always test your automation using **paper simulation mode** to confirm config behavior before allowing any real-world execution.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/7de6726f-e30e-424e-944f-318cea3ac223" />
 
 ---
 
@@ -115,6 +116,7 @@ Displays:
 * P/L streams
 * Auto-stop recalculations
 * Signal history
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/afe6ee73-a3a4-428c-b82b-06de6048a754" />
 
 ---
 
@@ -132,6 +134,7 @@ flowchart TD
     F --> A
     G --> A
 ```
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/5317a726-67f3-4cb8-8fa0-25047f50aec5" />
 
 ---
 
